@@ -209,3 +209,29 @@ h3::before
     width: 150px;
     margin: 50px 0;
 }
+
+#footer
+{
+    background: #f8f9fd;
+    padding: 20px 10px 8px;   
+}
+.footer-image
+{
+    margin: 30px 0;
+}
+#footer p
+{
+    color: #333;
+}
+#footer a img
+{
+    width: 50px;
+}
+.fa-heart
+{
+    color: red;
+}
+hr
+{
+    background-color: #ccc;
+}
